@@ -1,0 +1,34 @@
+body  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 98vh; }
+
+    
+
+
+#rnds_label {
+        font-size: 35px;
+    }
+
+#foot {
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+    font-style: italic;
+    background-color: lightgrey;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 6vw;
+}
+
+#ply_btn {
+    margin:30px;
+}
+
+#ply_btn:hover {
+    background-color: blue;
+}
+
+

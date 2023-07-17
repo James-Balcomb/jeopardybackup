@@ -1,0 +1,20 @@
+
+#fin_cat {
+    display: flex;
+    background-color: lightgrey;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 4vw;
+    border-style: solid;
+    border-width: 1px; }
+
+#fin_ques {
+    display: flex;
+    width: 20vw;
+    height: 10vw;
+    border-style: solid;
+    border-width: 1px;
+    align-items: center;
+    justify-content: center;
+}

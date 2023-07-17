@@ -1,0 +1,77 @@
+#display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 50vh;
+}
+
+#ply_trn {
+    font-size: 25px;
+}
+
+#guess_pass {
+    display: flex;
+    justify-content: space-between;
+    width: 10vw;
+}
+
+#score {
+    display:flex;
+    width: 50vw;
+    justify-content: space-between;
+}
+
+#rounds_form {
+    display:flex;
+    width: 50vw;
+    justify-content: space-between;
+}
+
+#rounds_btn {
+    width: 10vw;
+    height: 10vh;
+}
+
+#rounds_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+ 
+
+#question_table {
+    width:50vw;
+}
+
+#question_table2 {
+    width: 50vw;
+}
+
+#question_table td:hover {
+    color: white;
+    background-color: red;
+}
+
+input {
+    margin: 20px;
+}
+
+input {
+    margin:2vh;
+    width: 10vw;
+}
+
+table, td, th {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: grey;
+}
+
+table {
+    width: 75vw;
+}
